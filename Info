@@ -1,0 +1,13 @@
+TICID is the unique TESS target identifier.
+SECTOR is the sector of TESS where the star is.
+RA_OBJ is the right ascension [deg].
+DEC_OBJ is the declination [deg].
+EQUINOX is the equinox of celestial coordinate system.
+PMRA is the RA proper motion [mas/yr].
+PMDEC is the DEC proper motion [mas/yr].
+PMTOTAL is the total proper motion [mas/yr].
+TESSMAG is the TESS magnitude [mag].
+TEFF is the effective temperature [K].
+LOGG is the log10 surface gravity [cm/s2]
+MH is the metallicity [log10([M/H])].
+RADIUS is the stellar radius [solar radii].
